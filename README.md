@@ -1,4 +1,4 @@
-# DDG [![DOI](https://zenodo.org/badge/1131358988.svg)](https://doi.org/10.5281/zenodo.18204170)
+# DDG [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18284992.svg)](https://doi.org/10.5281/zenodo.18284992)
 Decentralized Domain Generalization with Style Sharing: Formal Model and Convergence Analysis
 
 - arXiv: [Decentralized Domain Generalization with Style Sharing: Formal Model and Convergence Analysis](https://arxiv.org/abs/2504.06235)
